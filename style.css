@@ -85,7 +85,7 @@ input:checked+.slider:before {
 
 body {
     background-color: #dbd8e3;
-    background:url(./images/background2.jpg);
+    background:url(./background2.jpg);
     background-size: cover;
     background-repeat: no-repeat;
 }
@@ -214,7 +214,7 @@ span {
     top: 50%;
     left: 45%;
     transform: translate(-50%, -50%);
-    background: url(./images/background2.jpg);
+    background: url(./background2.jpg);
     background-size: cover;
     background-position: center;
     background-attachment: fixed;
